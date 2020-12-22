@@ -22,14 +22,10 @@ Run "npm start" in the current directory to bring up the localhost server. It sh
 
 - NPM 6.14.8
 
-- PostgreSQL 13
+- MySQL 8.0.22
 
-- Python 3.8.5
-  - Flask 1.1.2
-    - flask_sqlalchemy
-    - flask_praetorian
-    - flask_cors
-    - flask_socketio
+- Java 1.11
+  - Spring v2.3.5.RELEASE
 
 ## Data Model
 
