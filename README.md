@@ -41,8 +41,8 @@ An Example `User`:
 {
   user: "Je"
   password: "password"
+  email: "email@notfake.com"
   role: "admin"
-  servers: "5"
 }
 ```
 
@@ -68,7 +68,6 @@ https://www.gloomaps.com/wx3kQ2NR4d
 2. As a non-registered user, I can browse the site.
 3. As a user, I can log in to the site.
 4. As a user, I can send messages to other users.
-5. As a user, I can create a server.
 
 ## References Used
 
